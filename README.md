@@ -1,16 +1,8 @@
-# flutter_todoapp_getx
 
-A new Flutter application.
+**GetX and GetStorage TODO App:=**
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. ![WhatsApp Image 2021-01-30 at 4 49 43 PM](https://user-images.githubusercontent.com/66554769/106354992-739f0400-631b-11eb-9e56-720d3b58d1df.jpeg)
+2. ![WhatsApp Image 2021-01-30 at 4 49 44 PM](https://user-images.githubusercontent.com/66554769/106354993-7568c780-631b-11eb-8a95-be5332a8cb0a.jpeg)
+3. ![WhatsApp Image 2021-01-30 at 4 49 43 PM (1)](https://user-images.githubusercontent.com/66554769/106354994-77328b00-631b-11eb-9178-711a24b221fa.jpeg)
+4. ![WhatsApp Image 2021-01-30 at 4 49 44 PM (1)](https://user-images.githubusercontent.com/66554769/106354996-78fc4e80-631b-11eb-9baf-81acc626a57a.jpeg)
+5. 
